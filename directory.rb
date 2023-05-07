@@ -95,7 +95,7 @@ def print_footer
 end
 
 def try_load_students
-  filename = ARGV.first# first argument from the command line
+  filename = ARGV.first || "students.csv" # default incase no input
   return if filename.nil? # get out of the method if it isn't given
   if File.exists?(filename) # if it exists
     load_students(filename)
