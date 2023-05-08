@@ -1,7 +1,7 @@
 # student-directory
 The student directory script allows you to manage the list of students enrolled at VIllains Academy
 
-```
+
 ## How to use :star2:
 
 The provided code is a student directory program that allows the user to input student names and their corresponding cohort, display the list of students, save the list to a file, load the list from a file, and exit the program.
