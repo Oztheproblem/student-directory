@@ -1,11 +1,6 @@
 # student-directory
-2
-​
-3
 The student directory script allows you to manage the list of students enrolled at VIllains Academy
-4
-​
-9
+
 ```
 ## How to use :star2:
 
